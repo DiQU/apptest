@@ -1,0 +1,1 @@
+var a=10,b=30;!function(){var o=20;return console.log("內部a"+o),o}(),console.log(a,b);
